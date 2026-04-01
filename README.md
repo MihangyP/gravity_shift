@@ -39,7 +39,7 @@ This project aims to:
 
 ## 📦 Installation
 > **Note:** For now, the game is only available on Linux
-```console
+```bash
 git clone https://github.com/MihangyP/gravity_shift.git
 cd gravity_shift
 make
