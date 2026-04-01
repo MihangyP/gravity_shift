@@ -52,8 +52,3 @@ make
 - Sound and music
 - Score system
 - Speedrun mode
-
-## 🤡 Author 
-MIHANGY Pierrot
-Student at 42 Antananarivo
-Passionate about system programming, software tolls, and game development
